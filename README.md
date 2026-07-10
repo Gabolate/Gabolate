@@ -1,31 +1,19 @@
-- 👋 Hi, Gabolate here (*or Gabe/Gabo for short*), Were-Liolf from Chile 🆑🐺🦁. don't be afraid, i don't bite 🤗
-  
-  (*usually, unless i'm mad lmao* >:') 
-- 👀 I’m interested in Programming, Buses, Animation, Drawings and Growing Up
-- 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on **Cosmos Gen 3** and any other project that looks awesome to me
-- 📫 How to reach me: Usually in the Cosmos server, although nowadays i don't really like getting random requests, its better to talk for a while on some place i'm in first
+## Were-Liolf Working!!! 🐺🦁✝️🇨🇱
 
-- 😄 Pronouns: Do i need to answer this? it should be ~~un~~common sense :'|
-- ⏰ Timezone: **UTC-3** on ``Spring/Summer`` (*aprox September - March*) and **UTC-4** for ``Autumn/Winter`` (*around April - August*)
-- ⚡ Inspirational Quote: *"Look for peace and when you make a change to yourself, your environment changes as well" - Sun Tzu (probably)*
+Its just me Gabe, I like coding, playing Touhou and working on myself.
 
-___________________________________________
+⚠️***Do note tho, that if you don't pass my personal tests you will be blocked and erased from my life*** ⚠️
 
-  - Here are some links of other websites im in:
-    
-    - 🚩 [Youtube](https://www.youtube.com/@GabolateAnime)
-    - 😸 [Scratch](https://scratch.mit.edu/users/Gabolate)
-    - 📘 [Internet Archive](https://archive.org/details/@gabolate)
-    - 🎨 [FurredStreet](https://furredstreet.com/Gabolate)
-    
+That's pretty much just it about me, quite simple ¯\\_\_(ツ)_\_/¯, you can take a look at my repos and use what you'd like:
+### (Beware of licenses)
+|Project|Description|License|Status|Link
+|-------|-----------|-------|------|----|
+|**EoSD2FW**|Tool to convert Touhou 6's ECL scripts to Touhou 20|*Apache 2.0*|✅ On Going|☯️ [Link](https://github.com/Gabolate/EoSD2FW)
+|**Cosmares**|Library for Installing Cosmos Operating Systems to a Harddrive|*MIT*|⏸️ Paused|🪐 [Link](https://github.com/Gabolate/Cosmares)
+|**Dykromentium**|A Team-made GDI Malware that I regret participating in ._.|*Unknown*|🟥 Abandoned|🔌 [Link](https://github.com/Gabolate/Dykromentium)
+
+
 <!---
 Hello! You found the source code of this page, here are some spoilers 👀 for you:
-"Louis"
-"Tzu"
-"Maiku"
-"Rafa"
-"Dreams, There We Go!"
-"Liolf Crafty 2025 - 2026"
-"Touhou Boushinchi ~ Hope Land of Faith"
+"InfinitInf Danmaku"
 --->
